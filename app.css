@@ -177,11 +177,6 @@ div .plan{
     width:50px;
 }
 
-.attribution{
-    position: absolute;
-    top:900px;
-}
-
 @media(min-width:900px){
     body{
         background-size: contain;
