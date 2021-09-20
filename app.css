@@ -121,6 +121,7 @@ p{
 
 .pay:hover{
     background-color:hsl(249, 73%, 65%); 
+    cursor:pointer;
 }
 
 
@@ -132,6 +133,7 @@ p{
 
 .cancel:hover{
     color: hsl(223, 47%, 23%);
+    cursor:pointer;
 }
 
 .price{
@@ -160,6 +162,7 @@ nav{
 nav:hover{
         text-decoration:none;
         color:hsl(249, 73%, 65%);
+	cursor:pointer;
 }
 
 div .plan{
